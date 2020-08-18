@@ -1,7 +1,7 @@
 ## レシピ一覧
 
 * [おふくろ (とドレッド男) のマカロニサラダ](moms-and-the-dreads-mac-salad)
-* [ラスタパスタ](rast-pasta)
+* [ラスタパスタ](rasta-pasta)
 
 ## メモ
 
