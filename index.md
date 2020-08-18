@@ -3,6 +3,6 @@
 * [おふくろ (とドレッド男) のマカロニサラダ](moms-and-the-dreads-mac-salad)
 * [ラスタパスタ](rasta-pasta)
 
-## メモ
+## 翻訳メモ
 
-* strain the macaroni -> 「マカロニを湯切りする」ということっぽい
+* `strain the macaroni` -> 「マカロニを湯切りする」ということっぽい
