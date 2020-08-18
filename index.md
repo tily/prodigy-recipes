@@ -2,6 +2,12 @@
 
 ### なくてはならないソースのレシピ
 
+* [カレーグレイビー](curry-gravy)
+* [ラスタソース](rasta-sauce)
+* [ホットアスバッファローソース](hot-ass-buffalo-sauce)
+* [P のラーメンシーズニング (ナトリウムなし)](ps-ramen-seasoning)
+* [P のリミックスパスタソース](ps-remixed-pasta-sauce)
+
 ### いつも食ってたやつ
 
 * [おふくろ (とドレッド男) のマカロニサラダ](moms-and-the-dreads-mac-salad)
